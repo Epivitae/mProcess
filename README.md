@@ -1,7 +1,5 @@
 # mProcess
 
-<a href="https://doi.org/10.5281/zenodo.18093335"><img src="https://zenodo.org/badge/1125146883.svg" alt="DOI"></a>
-
 **mProcess** is a specialized Python toolkit designed for the high-throughput analysis of microplate reader data. It provides an automated workflow for processing both single-channel intensity data and dual-channel ratiometric biosensor data.
 
 ## Key Features
@@ -16,11 +14,33 @@
 - Automated ratio calculation and background correction.
 - Extracts kinetics parameters (T1-T6) and generates ratio heatmaps.
 
-### 🌍 Bi-lingual Support
-- One-click switching between **English** and **Chinese** interfaces suitable for international lab environments.
-
 ## Installation
 
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+2. Run the GUI:
+   ```bash
+   python app.py
+   ```
+
+## Citation
+If you use mProcess in your research, please cite it as follows:
+
+### Text format:
+Wang, Kui. (2025). mProcess: Automated Processing Tool for Microplate Reader Data (v4.1.0). Zenodo. https://doi.org/10.5281/zenodo.18093335
+
+### BibTeX format:
+```bash
+{@software{mProcess_2025,
+  author       = {Wang, Kui},
+  title        = {mProcess: Automated Processing Tool for Microplate Reader Data},
+  month        = dec,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v4.1.0},
+  doi          = {10.5281/zenodo.18093335},
+  url          = {[https://doi.org/10.5281/zenodo.18093335](https://doi.org/10.5281/zenodo.18093335)}
+}
+```
