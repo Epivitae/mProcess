@@ -6,11 +6,16 @@
 <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python Version">
 <a href="http://www.cns.ac.cn"><img src="https://img.shields.io/badge/Homepage-www.cns.ac.cn-005BAC?style=flat-square" alt="Homepage"></a>
 <img src="https://img.shields.io/github/repo-size/Epivitae/mProcess?style=flat-square&color=orange" alt="Repo Size">
+<a href="https://github.com/Epivitae/mProcess"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEpivitae%2FmProcess&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 ---
 
 **mProcess** is a specialized Python toolkit designed for the high-throughput analysis of microplate reader data. It provides an automated workflow for processing both single-channel intensity data and dual-channel ratiometric biosensor data.
 
+## Interface Preview
+<p align="center">
+  <img src="assets/screenshot.png" alt="mProcess GUI Interface" width="600">
+</p>
 
 ## Key Features
 
@@ -34,6 +39,13 @@
    ```bash
    python app.py
    ```
+
+## Advanced Usage (Notebook)
+For developers or advanced users who prefer Jupyter Notebooks:
+
+<a href="https://colab.research.google.com/github/Epivitae/mProcess/blob/main/notebooks/pre-process.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Citation
 If you use mProcess in your research, please cite it as follows:
