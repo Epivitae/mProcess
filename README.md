@@ -43,7 +43,7 @@
 ## Advanced Usage (Notebook)
 For developers or advanced users who prefer Jupyter Notebooks:
 
-<a href="https://colab.research.google.com/github/Epivitae/mProcess/blob/main/notebooks/pre-process.ipynb">
+<a href="https://colab.research.google.com/github/Epivitae/mProcess/blob/main/notebooks/advanced_usage.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
