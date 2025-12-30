@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python Version">
 <a href="http://www.cns.ac.cn"><img src="https://img.shields.io/badge/Homepage-www.cns.ac.cn-005BAC?style=flat-square" alt="Homepage"></a>
 <img src="https://img.shields.io/github/repo-size/Epivitae/mProcess?style=flat-square&color=orange" alt="Repo Size">
-<a href="https://github.com/Epivitae/mProcess"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEpivitae%2FmProcess&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Epivitae.mProcess" alt="visitors">
 
 ---
 
