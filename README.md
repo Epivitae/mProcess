@@ -1,6 +1,6 @@
 # mProcess
 
-<a href="https://doi.org/10.5281/zenodo.18093335"><img src="https://zenodo.org/badge/1125146883.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.18093335"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18093335-blue" alt="DOI"></a>
 <a href="https://github.com/Epivitae/mProcess/releases"><img src="https://img.shields.io/github/v/release/Epivitae/mProcess?include_prereleases&style=flat-square&color=blue" alt="GitHub release"></a>
 <a href="https://github.com/Epivitae/mProcess/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Epivitae/mProcess?style=flat-square&color=green" alt="License"></a>
 <img src="https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python Version">
