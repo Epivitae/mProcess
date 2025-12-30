@@ -1,0 +1,8 @@
+__pycache__/
+*.xlsx
+!example_data.xlsx
+.ipynb_checkpoints/
+.DS_Store
+dist/
+build/
+*.spec
