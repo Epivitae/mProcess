@@ -1,0 +1,22 @@
+{
+  "title": "mProcess: Automated Processing Tool for Microplate Reader Data",
+  "version": "v4.1.0",
+  "description": "A Python-based toolkit for high-throughput analysis of microplate reader data. Features include dual-channel ratio calculation (485/420nm) and single-channel intensity analysis with automated heatmaps.",
+  "creators": [
+    {
+      "name": "Wang, Kui",
+      "affiliation": "Institute of Neuroscience, CAS",
+      "orcid": "0000-0002-9436-3632" 
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "microplate reader",
+    "biosensor",
+    "ratio imaging",
+    "high-throughput screening",
+    "python"
+  ],
+  "upload_type": "software"
+}
