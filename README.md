@@ -14,7 +14,7 @@
 
 ## Interface Preview
 <p align="center">
-  <img src="assets/screenshot.png" alt="mProcess GUI Interface" width="600">
+  <img src="assets/screenshot.png" alt="mProcess GUI Interface" width="200">
 </p>
 
 ## Key Features
